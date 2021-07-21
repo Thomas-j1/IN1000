@@ -1,0 +1,8 @@
+1. Hva er innkapsling? Hvorfor er det nyttig?
+  Innkapsling er beskyttelse av data, ved f.eks bruk av klasser med private eller beskyttede instansvariabler. Dette er nyttig for å holde data privat, og beskyttet.
+
+2. Hva er grensesnittet til en klasse? Hvordan skiller det seg fra implementasjonen av en klasse?
+  Grensesnittet til en klasse er hvilke metoder i objektene som er tilgjengelig for f.eks programmerere. implementasjonen er det motsatte, som er "innmaten" til metodene, og de vil ikke være tilgjengelig i grensesnittet.
+
+3. Hva er en instansmetode, og hvordan skiller dette seg fra prosedyrene/funksjonene vi har møtt hittil?
+  En instansmetode er funksjonene/prosedyrene som tilhører en klasse, forskjellen fra disse og tidligere prosedyrer og funksjoner er at de bare er tilgjengelige innenfor klassen og objektene. 

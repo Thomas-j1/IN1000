@@ -1,0 +1,20 @@
+A. Klassedefinisjon
+1-16
+
+B. Opprettelse av nytt objekt
+19, 20
+
+C. Definisjon av instansvariabel
+3-5
+
+D. Definisjon av instansmetode
+7, 11, 15
+
+E. Definisjon av konstruktør
+2
+
+F. Kall på instansmetode
+21, 22, 25-28, 31-34
+
+G. Argumenter
+  19, 20, 25, 26, 31, 32

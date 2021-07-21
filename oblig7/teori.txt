@@ -1,0 +1,5 @@
+b) I klassen Spilleliste er det en instansvariabel som lagrer alle sangene i en liste. Nevn minst en, helst to årsaker til at det er naturlig å velge en liste fremfor en ordbok her.
+  Årsaker til å velge liste framfor ordbok i spillelisten kan være at listen ikke trenger en nøkkel, som kunne gjort det problematisk med flere sanger fra samme person, eller sanger med samme tittel. Listen vil også kunne samhandle med index 0-x, som kan være enklere når man jobber med listen. Du vil også kunne legge objekter direkte til listen, uten å dele opp objektet i nøkkelverdi og innhold, og slå de sammen til objekter igjen senere.
+
+c) Klassen Spilleliste kunne hatt filnavn som parameter til konstruktøren, og lest inn spillelisten ved opprettelsen av et nytt Spilleliste-objekt. Ser du noen fordel ved ikke å gjøre det i konstruktøren?
+  En av fordelene er at du kan lese flere filer til samme spilleliste, og du slipper å lage flere instansvariabeler.
